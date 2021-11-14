@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aximum13
 - 👀 I’m interested in music, IT
-- 🌱 I’m currently learning web-developer
+- 🌱 I'm studying to be a web developer
 - 💞️ I’m looking to collaborate on interested people
 - 📫 How to reach me @aximum13
 
